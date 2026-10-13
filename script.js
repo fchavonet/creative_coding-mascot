@@ -40,7 +40,7 @@ const pandaImage = document.getElementById("panda");
 const pandaButton = document.getElementById("panda-button");
 
 // Available emotes for random selection.
-const emoteNames = ["confused", "happy", "shy", "sleep", "star", "surprised"];
+const emoteNames = ["angry", "asleep", "confused", "happy", "love", "shy", "star", "surprised"];
 const emoteDuration = 1500; // Display duration in milliseconds (1500 = 1.5 seconds).
 let isEmoteVisible = false;
 let emoteTimeout = null;
