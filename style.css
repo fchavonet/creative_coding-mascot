@@ -11,3 +11,22 @@
 .tooltip::after {
     display: none !important;
 }
+
+/* PANDA MASCOT SHADOW */
+#panda-button::before {
+    content: "";
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    height: 20px;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.5);
+    filter: blur(8px);
+    pointer-events: none;
+}
+
+:root:has(input.theme-controller[value="black"]:checked) #panda-button::before {
+    background: rgba(255, 255, 255, 0.5);
+}
