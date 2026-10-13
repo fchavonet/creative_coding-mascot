@@ -2,9 +2,7 @@
 
 ## Description
 
-## Description
-
-Mascot is a creative coding project featuring an interactive panda that follows the mouse cursor and reacts with different facial expressions.
+Panda Mascot is a creative coding project featuring an interactive panda that follows the mouse cursor and reacts with different facial expressions.
 
 Inspired by [page-mascot](https://github.com/nilbuild/page-mascot) by [Kamran Ahmed](https://github.com/nilbuild), I created my own version as an experiment for my future personal portfolio, potentially as a website companion or animated chatbot assistant.
 
@@ -70,34 +68,16 @@ You can also test the project online by clicking [here](https://fchavonet.github
     </picture>
 </p>
 
-<table align="center">
-    <tr valign="top">
-        <td align="center">
-                <img width="100%" src="./assets/angry.png" alt="Desktop Screenshot">
-        </td>
-        <td align="center">
-                <img width="100%" src="./assets/asleep.png" alt="Desktop Screenshot">
-        </td>
-        <td align="center">
-                <img width="100%" src="./assets/confused.png" alt="Desktop Screenshot">
-        </td>
-        <td align="center">
-                <img width="100%" src="./assets/happy.png" alt="Desktop Screenshot">
-        </td>
-        <td align="center">
-                <img width="100%" src="./assets/love.png" alt="Desktop Screenshot">
-        </td>
-        <td align="center">
-                <img width="100%" src="./assets/shy.png" alt="Desktop Screenshot">
-        </td>
-         <td align="center">
-                <img width="100%" src="./assets/star.png" alt="Desktop Screenshot">
-        </td>
-         <td align="center">
-                <img width="100%" src="./assets/surprised.png" alt="Desktop Screenshot">
-        </td>
-    </tr>
-</table>
+<p align="center">
+    <img src="./assets/angry.png" width="100" alt="Angry">
+    <img src="./assets/asleep.png" width="100" alt="Asleep">
+    <img src="./assets/confused.png" width="100" alt="Confused">
+    <img src="./assets/happy.png" width="100" alt="Happy">
+    <img src="./assets/love.png" width="100" alt="Love">
+    <img src="./assets/shy.png" width="100" alt="Shy">
+    <img src="./assets/star.png" width="100" alt="Star">
+    <img src="./assets/surprised.png" width="100" alt="Surprised">
+</p>
 
 ## What's Next?
 
